@@ -1,0 +1,13 @@
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+<title><%= h(yield(:title) || "Untitled") %></title>
+
+<%= stylesheet_link_tag 'reset-fonts', 'template', 'style', :cache => false %>
+
+<%= javascript_include_tag :cache => false %>
+
+<%= yield(:head) %>
+
+<script type="text/javascript">
+
+</script>
+

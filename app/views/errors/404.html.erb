@@ -1,0 +1,42 @@
+<% title "#{(t "common.projectname")} - #{(t "common.recourse_not_found")}" %>
+
+<div id="cnErrorTabs" class="yui-navset, tabViewContainer">
+
+    <div class="tabs_container">
+        <div class="rt">
+            <div class="lt">
+                <ul class="yui-nav">
+                    <li class="selected">
+                        <a href="#welcome" title="<%= t "common.projectname" %>">
+                            <em><%= t "common.projectname" %></em>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="yui-content">
+        <div id="welcome">
+
+            <div id="cnWelcome" class="container">
+            <div class="cn_header"><%= t "errors.404caption" %></div>
+            <div class="cn_body">
+
+               <div class="dialog error-dialog">
+                    <h1><%= t "errors.404caption" %></h1>
+                    <p><%= t "errors.404reason" %></p>
+                </div>
+
+            </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+	//var oLogReader = new YAHOO.widget.LogReader();
+	var tabView = new YAHOO.widget.TabView('cnErrorTabs');
+</script>

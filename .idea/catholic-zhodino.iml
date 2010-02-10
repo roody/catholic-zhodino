@@ -17,6 +17,15 @@
     </content>
     <orderEntry type="jdk" jdkName="Ruby SDK 1.9.1" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="[gem] rails (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/rails-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] rake (v0.8.7, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/rake-0.8.7)" level="application" />
+    <orderEntry type="library" name="[gem] actionpack (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/actionpack-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] activeresource (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/activeresource-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] actionmailer (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/actionmailer-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] rack (v1.0.1, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/rack-1.0.1)" level="application" />
+    <orderEntry type="library" name="[gem] activerecord (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/activerecord-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] activesupport (v2.3.5, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/activesupport-2.3.5)" level="application" />
+    <orderEntry type="library" name="[gem] mysql (v2.8.1, C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/mysql-2.8.1-x86-mingw32)" level="application" />
   </component>
 </module>
 

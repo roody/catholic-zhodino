@@ -15,9 +15,167 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager" verified="true">
-    <list default="true" readonly="true" id="b474f8bb-af42-42a6-b698-840922f19d79" name="Default" comment="" />
-    <ignored path="catholic-zhodino.iws" />
+    <list default="true" readonly="true" id="b474f8bb-af42-42a6-b698-840922f19d79" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/helpers/layout_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/authenticates_many_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/active_record_trickery.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/activation_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/magic_states.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/errors/404.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/rails/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/single_access_token.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\public\index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config/routes.rb" afterPath="$PROJECT_DIR$/../config/routes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/active_record_trickery_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/password_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/priority_record.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/persistence_token.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\public\500.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/bcrypt.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/id_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/login_test.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\public\422.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/fixtures/projects.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/errors/423.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/base.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config/database.yml" afterPath="$PROJECT_DIR$/../config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/sha256.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/../config/initializers/session_store.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/i18n.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/user_session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/affiliate.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/session_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case/mock_cookie_jar.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/company.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/magic_states_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/random.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/timeout.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/ordered_hash.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\db\seeds.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/../app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/magic_columns.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/http_auth.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/md5.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case/mock_logger.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/params_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/scopes_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/email.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/README.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/callbacks_test.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\public\images\rails.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/stylesheets/template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/existence.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/persistence.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/sha1.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catholic-zhodino.iml" afterPath="$PROJECT_DIR$/catholic-zhodino.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../log/development.log" afterPath="$PROJECT_DIR$/../log/development.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/crypto_provider_test/sha512_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/params.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/k_rudy.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/password.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/callbacks.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/scopes.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/perishable_token_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/controller_adapters/merb_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/restful_authentication_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/id.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/../app/helpers/application_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/wordpress.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/controller_adapters/rails_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/crypto_provider_test/sha256_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/employee.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/controller_adapters/sinatra_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/fixtures/users.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/authenticates_many/base.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/password_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/generators/session/templates/session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/brute_force_protection.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/errors/403.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/cookies_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/session_maintenance.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/crypto_provider_test/sha1_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/authenticates_many/association.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/regex.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/klass.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/crypto_provider_test/aes256_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/persistence_token_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/klass_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/perishable_token.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case/rails_request_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/magic_columns_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/logged_in_status_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/random_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config/environment.rb" afterPath="$PROJECT_DIR$/../config/environment.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/perishability_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/test_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/employee_session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/i18n/translator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/controller_adapters/abstract_adapter.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/errors/500.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/shoulda_macros/authlogic.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/cookies.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/i18n_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/VERSION.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/timeout_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/existence_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/unauthorized_record.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/home.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/email_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/CHANGELOG.rdoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/project.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/validation_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/models/auth/user_session.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/magic_columns_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/unauthorized_record_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/logged_in_status.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/perishable_token.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case/mock_request.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/http_auth_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../config/locales/en.yml" afterPath="$PROJECT_DIR$/../config/locales/en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/base_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/layouts/main.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/sha512.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/session_maintenance_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/base.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/brute_force_protection_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/ldaper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/foundation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/authlogic.gemspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/persistence_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/libs/user.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/password.rb" />
+      <change type="DELETED" beforePath="D:\dev\git\catholic-zhodino\public\404.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/fixtures/employees.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/test_case/mock_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/restful_authentication.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/activation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/validation.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/session_test/credentials_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/session/magic_columns.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/crypto_providers/aes256.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/crypto_provider_test/bcrypt_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/acts_as_authentic_test/single_access_test.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_head.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/login.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/test/fixtures/companies.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/init.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/generators/session/session_generator.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../public/stylesheets/reset-fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../app/controllers/auth/user_sessions_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/lib/authlogic/acts_as_authentic/validations_scope.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../vendor/plugins/authlogic/Rakefile" />
+    </list>
     <ignored path=".idea/workspace.xml" />
+    <ignored path="catholic-zhodino.iws" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +229,134 @@
   <component name="FavoritesManager">
     <favorites_list name="catholic-zhodino" />
   </component>
+  <component name="FileColors" enabled="true" enabledForTabs="true" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="environment.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/environment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="1622" selection-end="1678" vertical-scroll-proportion="1.0062305">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/environments/test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backtrace_silencers.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/initializers/backtrace_silencers.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inflections.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/initializers/inflections.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mime_types.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/initializers/mime_types.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_rails_defaults.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/initializers/new_rails_defaults.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session_store.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/initializers/session_store.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="4" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="4" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../public/stylesheets/template.css" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/include/_head.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/home.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/main.html.erb" />
+        <option value="$PROJECT_DIR$/../config/routes.rb" />
+        <option value="$PROJECT_DIR$/../app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/../db/seeds.rb" />
+        <option value="$PROJECT_DIR$/../db/migrate/20100210120137_create_users.rb" />
+        <option value="$PROJECT_DIR$/../app/models/user.rb" />
+        <option value="$PROJECT_DIR$/../app/models/user_session.rb" />
+        <option value="$PROJECT_DIR$/../app/controllers/auth/user_sessions_controller.rb" />
+        <option value="$PROJECT_DIR$/../config/database.yml" />
+        <option value="$PROJECT_DIR$/../config/initializers/session_store.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_INTERNAL" />
@@ -114,8 +396,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="RailsProjectView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -134,20 +420,247 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="initializers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catholic-zhodino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="com.intellij.openapi.vcs.configurable.VcsManagerConfigurable$4" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -156,7 +669,74 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Rails.localhost">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" break_at_first_line="false" browser="DEFAULT" class_file="" class="" config_file="" directory="" file="" is_config_by_xml="false" is_groups_set="false" method_class="" method_file="" method="" open_page_automatically="false" scope="Class" stop_session_after_first_page="true" web_path="">
+      <option name="excludedGroups">
+        <set />
+      </option>
+      <option name="includedGroups">
+        <set />
+      </option>
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="sessionId" value="" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="FtpUpload" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="catholic-zhodino" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e STDOUT.sync=true;STDERR.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="D:\dev\git\catholic-zhodino" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_PATH" VALUE="D:\dev\git\catholic-zhodino\script\server" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="CHOOSE_MANUALLY" VALUE="true" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e STDOUT.sync=true;STDERR.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="[none]" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -166,6 +746,14 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" class_name="" html_or_swf_file_path="" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" port="0" run_mode="HtmlOrSwfFile" scope="Class" socket_policy_port="0" url_to_launch="http://">
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -208,6 +796,43 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e STDOUT.sync=true;STDERR.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" runner="emma" />
       <extension name="snapshooter" />
@@ -234,7 +859,53 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e STDOUT.sync=true;STDERR.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_CLASS_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="INHERITANCE_CHECK_DISABLED" VALUE="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="localhost" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="catholic-zhodino" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e STDOUT.sync=true;STDERR.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/.." />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_PATH" VALUE="D:\dev\git\catholic-zhodino\script\server" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="CHOOSE_MANUALLY" VALUE="true" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="BROWSER_URL" VALUE="http://127.0.0.1:3000" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Rails.localhost" />
+    </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -267,12 +938,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="990" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5588585" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -281,12 +953,11 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984616" sideWeight="0.6623068" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984616" sideWeight="0.43281808" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -324,12 +995,132 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../app/models/auth/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/models/auth/user_session.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="23" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../db/migrate/20100210120137_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="75" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/controllers/auth/user_sessions_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/environments/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/backtrace_silencers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/inflections.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/mime_types.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/new_rails_defaults.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Ruby-1.9.1/lib/ruby/gems/1.9.1/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="222" column="0" selection-start="8432" selection-end="8432" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/initializers/session_store.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="4" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1622" selection-end="1678" vertical-scroll-proportion="1.0062305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <UIState>
           <splitter-proportions>
-            <SplitterProportionsDataImpl />
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
           </splitter-proportions>
           <settings />
         </UIState>
