@@ -3,16 +3,55 @@
 	margin: 0 auto;
 }
 
-/* Header
------------------------------------------------------------------------------*/
+/* Header */
 #header {
 	height: 250px;
 	background: #FFE680;
 }
 
+#header .hdr-brd-tc {
+    height: 12px;
+    width: 100%;
+    background: url("../images/header/header_border_tc.gif") repeat-x;
+}
 
-/* Middle
------------------------------------------------------------------------------*/
+#header .hdr-brd-tl {
+    height: 12px;
+    float: left;
+    width: 12px;
+    background: url("../images/header/header_border_tl.gif") no-repeat;
+}
+
+#header .hdr-brd-tr {
+    height: 12px;
+    float: right;
+    width: 12px;
+    background: url("../images/header/header_border_tr.gif") no-repeat;
+}
+
+#header .hdr-spcr-tc {
+    height: 11px;
+    width: 100%;
+    background: #45aae9;
+}
+
+#header .hdr-spcr-tl {
+    height: 11px;
+    width: 12px;
+    float: left;
+    background: url("../images/header/header_border_lc.gif") repeat-y;
+}
+
+#header .hdr-spcr-tr {
+    height: 11px;
+    width: 12px;
+    float: right;
+    background: url("../images/header/header_border_rc.gif") repeat-y;
+}
+
+
+
+/* Middle */
 #middle {
 	border-left: 300px solid #B5E3FF;
 	border-right: 15px solid #FFACAA;
@@ -35,8 +74,7 @@
 	padding: 0 20px;
 }
 
-/* Sidebar Left
------------------------------------------------------------------------------*/
+/* Sidebar Left */
 .sl {
 	float: left;
 	width: 300px;
@@ -46,8 +84,7 @@
 }
 
 
-/* Sidebar Right
------------------------------------------------------------------------------*/
+/* Sidebar Right */
 .sr {
 	float: right;
 	margin-right: -15px;
@@ -57,8 +94,7 @@
 }
 
 
-/* Footer
------------------------------------------------------------------------------*/
+/* Footer */
 #footer {
 	height: 100px;
 	background: #BFF08E;
