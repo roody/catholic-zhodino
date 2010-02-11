@@ -89,11 +89,42 @@ body {
     margin: 0 0 0 9px;
 }
 
+#header .logo-image {
+    margin: 33px 0 0 0;
+}
+
 #header .hdr-content-cloud {
     height: 118px;
     width: 166px;
     float:right;
     background: url("../images/header/header_content_cloud.gif") no-repeat;
+}
+
+#header .main-title-cntr {
+    font-family: Calibri;
+    color: #fff;
+    width: 400px;
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#header h1.main-title {
+    font-size: 19pt;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#header h2.sub-title {
+    font-size: 15pt;
+    font-style: italic;
+    font-weight: 100;
+    margin: 20px 0 0 0;
+}
+
+#header .lady-fatima {
+    width: 100px;
+    float: left;
+    background: url("../images/lady_fatima.png") no-repeat; 
 }
 
 #header .hdr-bottom {
