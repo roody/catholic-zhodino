@@ -1,3 +1,8 @@
+body {
+    min-height: 100%;
+    background: url("../images/body_bgrd.png") repeat-x #dee7ea;
+}
+
 #wrapper {
 	width: 1000px;
 	margin: 0 auto;
@@ -5,7 +10,7 @@
 
 /* Header */
 #header {
-	height: 250px;
+	height: 167px;
 	background: #FFE680;
 }
 
@@ -49,12 +54,72 @@
     background: url("../images/header/header_border_rc.gif") repeat-y;
 }
 
+#header .hdr-content {
+    width: 100%;
+    height: 118px;
+    background: url("../images/header/header_content_bgrd.gif") repeat-x;
+}
+
+#header .hdr-logo {
+    width: 276px;
+    height: 118px;
+    float: left;
+    background-color: #fff;
+}
+
+#header .hdr-logo-brd-l {
+    width: 4px;
+    height: 118px;
+    float: left;
+    background: url("../images/header/logo_border_l.gif") repeat-y;
+}
+
+#header .hdr-logo-content {
+    width: 273px;
+    height: 118px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#header .hdr-logo-strip {
+    width: 1px;
+    height: 118px;
+    float: left;
+    background: url("../images/header/header_logo_strip.gif") no-repeat;
+    margin: 0 0 0 9px;
+}
+
+#header .hdr-content-cloud {
+    height: 118px;
+    width: 166px;
+    float:right;
+    background: url("../images/header/header_content_cloud.gif") no-repeat;
+}
+
+#header .hdr-bottom {
+    width: 100%;
+    height: 26px;
+    background: url("../images/header/header_bottom_bgrd.gif") repeat-x
+}
+
+#header .hdr-logo-bottom {
+    width: 295px;
+    height: 26px;
+    float: left;
+    background: url("../images/header/header_logo_bottom.gif") no-repeat;
+}
+
+#header .hdr-bottom-r {
+    width: 415px;
+    height: 26px;
+    float: right;
+    background: url("../images/header/header_bottom_r.gif") no-repeat;
+}
 
 
 /* Middle */
 #middle {
-	border-left: 300px solid #B5E3FF;
-	border-right: 15px solid #FFACAA;
+	width: 100%;
 	height: 1%;
 }
 #middle:after {
@@ -68,26 +133,40 @@
 	width: 100%;
 	float: left;
 	overflow: hidden;
-	margin-right: -100%;
 }
 #content {
-	padding: 0 20px;
+    min-height: 150px;
+	padding: 0 15px 0 285px;
 }
 
 /* Sidebar Left */
 .sl {
 	float: left;
-	width: 300px;
+	width: 285px;
 	position: relative;
-	background: #B5E3FF;
-	left: -300px;
+	background: url("../images/sidebar/content_bgrd.png") repeat-x bottom #ecf5fd;
+	margin-left: -100%;
+}
+
+.sl .left-border-l {
+    width: 6px;
+    float: left;
+    min-height: 150px;
+    background: url("../images/sidebar/left-l.gif") repeat-y;
+}
+
+.sl .left-content {
+    width: 100px;
+    float: left;
+    min-height: 150px;
+    background-color: yellow;
 }
 
 
 /* Sidebar Right */
 .sr {
-	float: right;
-	margin-right: -15px;
+	float: left;
+	margin-left: -15px;
 	width: 15px;
 	position: relative;
 	background: #FFACAA;
