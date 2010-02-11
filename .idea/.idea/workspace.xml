@@ -15,13 +15,14 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager" verified="true">
-    <list default="true" readonly="true" id="b474f8bb-af42-42a6-b698-840922f19d79" name="Default" comment="Partially applied header styles">
+    <list default="true" readonly="true" id="b474f8bb-af42-42a6-b698-840922f19d79" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../log/development.log" afterPath="$PROJECT_DIR$/../log/development.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../public/stylesheets/template.css" afterPath="$PROJECT_DIR$/../public/stylesheets/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/views/home.html.erb" afterPath="$PROJECT_DIR$/../app/views/home.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/views/layouts/main.html.erb" afterPath="$PROJECT_DIR$/../app/views/layouts/main.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" afterPath="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" />
     </list>
     <ignored path=".idea/workspace.xml" />
     <ignored path="catholic-zhodino.iws" />
@@ -111,16 +112,43 @@
       <file leaf-file-name="_left.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-2.125">
+            <state line="9" column="34" selection-start="203" selection-end="203" vertical-scroll-proportion="-6.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="-2.8333333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_head.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_head.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="262" selection-end="281" vertical-scroll-proportion="-4.9583335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../public/stylesheets/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="22" selection-start="2558" selection-end="2558" vertical-scroll-proportion="0.55654764">
+            <state line="205" column="46" selection-start="3832" selection-end="3832" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../app/views/home.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -129,7 +157,7 @@
       <file leaf-file-name="main.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../app/views/layouts/main.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="34" selection-start="798" selection-end="798" vertical-scroll-proportion="-19.125">
+            <state line="29" column="32" selection-start="764" selection-end="764" vertical-scroll-proportion="-5.6666665">
               <folding />
             </state>
           </provider>
@@ -156,8 +184,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/../app/views/layouts/include/_head.html.erb" />
-        <option value="$PROJECT_DIR$/../app/views/home.html.erb" />
-        <option value="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" />
         <option value="$PROJECT_DIR$/../config/routes.rb" />
         <option value="$PROJECT_DIR$/../app/controllers/home_controller.rb" />
         <option value="$PROJECT_DIR$/../db/seeds.rb" />
@@ -168,9 +194,11 @@
         <option value="$PROJECT_DIR$/../config/database.yml" />
         <option value="$PROJECT_DIR$/../config/initializers/session_store.rb" />
         <option value="$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb" />
-        <option value="$PROJECT_DIR$/../app/views/layouts/main.html.erb" />
         <option value="$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/main.html.erb" />
+        <option value="$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb" />
         <option value="$PROJECT_DIR$/../public/stylesheets/template.css" />
+        <option value="$PROJECT_DIR$/../app/views/home.html.erb" />
       </list>
     </option>
   </component>
@@ -831,7 +859,7 @@
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partially applied header styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial home page design" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -847,6 +875,7 @@
     <MESSAGE value="Initialized IDEA Project" />
     <MESSAGE value="Added initial page layout" />
     <MESSAGE value="Partially applied header styles" />
+    <MESSAGE value="Initial home page design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -856,27 +885,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../config/initializers/backtrace_silencers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../config/initializers/inflections.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../config/initializers/mime_types.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../config/initializers/new_rails_defaults.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -938,13 +946,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../app/views/layouts/main.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="34" selection-start="798" selection-end="798" vertical-scroll-proportion="-19.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="28" selection-start="630" selection-end="630" vertical-scroll-proportion="-8.041667">
@@ -952,16 +953,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_head.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="262" selection-end="281" vertical-scroll-proportion="-4.9583335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/main.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="32" selection-start="764" selection-end="764" vertical-scroll-proportion="-5.6666665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_left.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="-2.125">
+        <state line="9" column="34" selection-start="203" selection-end="203" vertical-scroll-proportion="-6.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/layouts/include/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="-2.8333333">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../public/stylesheets/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="22" selection-start="2558" selection-end="2558" vertical-scroll-proportion="0.55654764">
+        <state line="205" column="46" selection-start="3832" selection-end="3832" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/views/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

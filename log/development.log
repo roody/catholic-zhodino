@@ -1933,3 +1933,231 @@ Rendered layouts/include/_header (0.0ms)
 Rendered layouts/include/_left (0.0ms)
 Rendered layouts/include/_footer (0.0ms)
 Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:35:17) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:36:21) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (15.6ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 62ms (View: 31, DB: 0) | 200 OK [http://127.0.0.1/]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:37:20) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 78ms (View: 78, DB: 0) | 200 OK [http://127.0.0.1/]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:37:23) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:39:30) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://127.0.0.1/]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:39:35) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:40:37) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:46:33) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:54:38) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (15.6ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 47ms (View: 47, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:56:00) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (15.6ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:56:27) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 14:57:10) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 0, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:02:49) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (15.6ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (15.6ms)
+Completed in 297ms (View: 266, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:07:05) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:07:43) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (15.6ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 31ms (View: 31, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:08:08) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:08:12) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:08:14) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 0ms (View: 0, DB: 0) | 200 OK [http://localhost/home]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-02-11 15:08:14) [GET]
+  Parameters: {"controller"=>"home", "action"=>"index"}
+Rendering template within layouts/main
+Rendering home
+Rendered layouts/include/_head (0.0ms)
+Rendered layouts/include/_header (0.0ms)
+Rendered layouts/include/_left (0.0ms)
+Rendered layouts/include/_footer (0.0ms)
+Completed in 16ms (View: 16, DB: 0) | 200 OK [http://localhost/home]
