@@ -1,0 +1,32 @@
+#content #church_container {
+    text-align: center;
+}
+
+#menu_container #menu {
+    font-size: 13pt;
+    font-weight: bold;
+    margin: 50px 0 0 50px;
+}
+
+#menu_container #menu li {
+    margin: 25px 0;
+}
+
+#menu_container #menu li a {
+    color: #60340b;
+    text-decoration: none;
+}
+
+#menu_container #menu li a:visited {
+    color: #60340b;
+}
+
+#menu_container #menu li a:hover {
+    text-decoration: underline;
+}
+
+#menu_container #menu li a.active {
+    color: #fbf815;
+    text-decoration: none;
+}
+

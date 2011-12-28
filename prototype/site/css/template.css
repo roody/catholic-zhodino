@@ -1,0 +1,76 @@
+body {
+    font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
+    width: 100%;
+}
+a {
+    color: blue;
+    outline: none;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+}
+/* Begin of styles for the demonstration (you can remove them) */
+a.expand {
+    width: 150px;
+    display: block;
+    margin: 10px 0 0;
+}
+a.expand:hover {
+    height: 500px;
+}
+/* End of of styles for the demonstration */
+p {
+    margin: 0 0 18px
+}
+img {
+    border: none;
+}
+input {
+    vertical-align: middle;
+}
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+#header {
+    height: 248px;
+    margin: 0
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+#middle {
+    width: 100%;
+    background: url("../img/body_bgrd.png") repeat-x left top #759eda;
+}
+#middle:after {
+    content: '.';
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+}
+
+#menu_container {
+    float: left;
+    width: 250px;
+}
+
+#content {
+    float: left;
+    width: 750px;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+#footer {
+    height: 80px;
+    background: #4865ac;
+}
