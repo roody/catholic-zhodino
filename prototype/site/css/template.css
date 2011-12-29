@@ -1,3 +1,7 @@
+html {
+    background: #ccc;
+}
+
 body {
     font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
     width: 100%;
@@ -34,17 +38,11 @@ input {
     margin: 0 auto;
 }
 
-
-/* Header
------------------------------------------------------------------------------*/
 #header {
     height: 248px;
     margin: 0
 }
 
-
-/* Middle
------------------------------------------------------------------------------*/
 #middle {
     width: 100%;
     background: url("../img/body_bgrd.png") repeat-x left top #759eda;
@@ -67,9 +65,6 @@ input {
     width: 750px;
 }
 
-
-/* Footer
------------------------------------------------------------------------------*/
 #footer {
     height: 80px;
     background: #4865ac;
